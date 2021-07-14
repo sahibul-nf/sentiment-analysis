@@ -1,0 +1,13 @@
+sentiment/spouts/UserReviewSentenceSpout.class
+sentiment/utils/Cons.class
+sentiment/Topology$UselessWords.class
+sentiment/bolts/ScoringBolt.class
+sentiment/Topology.class
+sentiment/bolts/FilteringBolt$UselessWords.class
+sentiment/bolts/FilteringBolt.class
+sentiment/bolts/NegativeBolt$NegativeWords.class
+sentiment/bolts/PositiveBolt.class
+sentiment/bolts/NegativeBolt.class
+sentiment/bolts/PositiveBolt$PositiveWords.class
+sentiment/entitys/UserReview.class
+sentiment/SentimentTopology.class
